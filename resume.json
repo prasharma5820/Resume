@@ -1,0 +1,97 @@
+{
+"basics": {
+    "name": "Prashant Sharma",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/88210773?s=400&u=c385daadb099c11068b326d7818a09c2f993afe8&v=4",
+    "email": "2020kucp1043@iiitkota.ac.in",
+    "phone": "7690990966",
+    "website": "",
+    "summary": "I am a student of IIIT Kota persuing Btech in Computer Science. ",
+    "location": {
+        "address": "6815, Ward 26",
+        "postalCode": "301404",
+        "city": "Khairthal",
+        "countryCode": "India",
+        "region": "Rajasthan"
+    },
+    "profiles": [{
+            "network": "Twitter",
+            "username": "Prashan43881472",
+            "url": "https://www.twitter.com/Prashan43881472"
+        },
+        {
+            "network": "Github",
+            "username": "prasharma5820",
+            "url": "https://www.github.com/prasharma5820/"
+        },
+        {
+            "network": "linkedin",
+            "username": "Prashant Sharma",
+            "url": "https://www.linkedin.com/in/prashant-sharma-090ab21bb/"
+        },
+        {
+            "network": "Instagram",
+            "username": "pra_sharma_",
+            "url": "https://instagram.com/pra_sharma_"
+        }
+    ]
+},
+"work": [{
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
+    "highlights": [""]
+}],
+"volunteer": [{
+    "organization": "HOPE",
+    "position": "HR",
+    "website": "www.hopeeverywhere.in",
+    "startDate": "2020-12-25",
+    "endDate": "",
+    "summary": "To build a movement of changemakers who will work closely with different stakeholders towards a thriving life for children and creating a safe space for them.",
+    "highlights": []
+}],
+"education": [{
+    "institution": "Indian Institute of Information Technology,Kota",
+    "area": "Engineering",
+    "studyType": "Bachelor (hons)",
+    "startDate": "2020-12-02",
+    "endDate": "",
+    "gpa": "8.23",
+    "courses": [
+        "Computer Science & Engineering"
+    ]
+}],
+"awards": [{
+    "title": "",
+    "awarder": "",
+    "date": ""
+}],
+"publications": [{
+    "title": "",
+    "details": "",
+    "link": ""
+}],
+"skills": [{
+    "level": "Beginner",
+    "keywords": ["HTML", "CSS", "Javascript", "C/C++"]
+}],
+"interests": [
+    {
+        "name": "Singing",
+        "keywords": [
+            "Singing"
+        ]
+    },
+    {
+        "name": "Sports",
+        "keywords": [
+            "Cricket", "Vollyball"
+        ]
+    }
+],
+"references": []
+}
